@@ -1,0 +1,8 @@
+PySide6>=6.6.0
+SpeechRecognition>=3.10.0
+edge-tts>=6.1.9
+openai>=1.14.0
+psutil>=5.9.8
+pyaudio>=0.2.14
+python-dotenv>=1.0.1
+AppOpener>=1.7.0
